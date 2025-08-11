@@ -1,3 +1,6 @@
 streamlit
 google-genai
-google-cloud-logging  # <--- Make sure this line exists!
+google-generativeai
+python-dotenv
+openai
+

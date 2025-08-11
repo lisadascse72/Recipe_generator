@@ -4,3 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 streamlit-debug.log
+.streamlit/
+venv-local/
+secrets.toml
+venv-vercel
